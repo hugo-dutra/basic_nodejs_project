@@ -1,0 +1,17 @@
+# Arquivos e diretórios do Node.js
+node_modules/
+dist/
+
+# Arquivos e diretórios do TypeScript
+*.tsbuildinfo
+*.log
+
+# Arquivos e diretórios do ambiente de desenvolvimento
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
